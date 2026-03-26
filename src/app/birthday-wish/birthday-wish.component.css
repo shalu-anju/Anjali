@@ -80,7 +80,7 @@
 }
 
 .card {
-  background:purple;
+  background:rgb(235, 110, 235);
   border-radius: 2.2rem;
   box-shadow: 0 6px 32px 0 rgba(255, 182, 213, 0.18), 0 1.5px 8px 0 rgba(243, 231, 255, 0.12);
   padding: 2.2rem 1.5rem 2.5rem 1.5rem;
@@ -118,7 +118,7 @@
 }
 .loading-text {
   font-size: 1.2rem;
-  color: #080808;
+  color: #f7f0f0;
   font-weight: 500;
   letter-spacing: 0.02em;
 }
@@ -129,7 +129,7 @@
 .countdown-title {
   font-size: 1.25rem;
   font-weight: 600;
-  color: #080808 ;
+  color: #f7f0f0 ;
   margin-bottom: 1.5rem;
   letter-spacing: 0.01em;
 }
@@ -140,7 +140,7 @@
   margin-bottom: 1.2rem;
 }
 .countdown-box {
-  background: linear-gradient(135deg, #da8ee7 60%, #f3e7ff 100%);
+  background: linear-gradient(135deg, #f7f0f0 60%, #f3e7ff 100%);
   border-radius: 1.1rem;
   box-shadow: 0 2px 8px 0 rgba(255, 182, 213, 0.10);
   padding: 0.7rem 0.5rem 0.5rem 0.5rem;
@@ -166,7 +166,7 @@
 }
 .its-time {
   font-size: 1.1rem;
-  color: #080808;
+  color: #faf6f6;
   margin-bottom: 0.7rem;
   font-weight: 600;
   letter-spacing: 0.01em;
@@ -178,7 +178,7 @@
 }
 .reveal-btn {
   margin-top: 0.7rem;
-  background: linear-gradient(90deg, #da8ee7 0%, #e7c6ff 100%);
+  background: linear-gradient(135deg, #f7f0f0 60%, #f3e7ff 100%);
   color: #080808;
   font-weight: 600;
   border: none;
@@ -195,7 +195,7 @@
   cursor: not-allowed;
 }
 .reveal-btn:not(:disabled):hover, .reveal-btn:not(:disabled):active {
-  background: linear-gradient(90deg, #da8ee7 0%, #ffb6d5 100%);
+  background: linear-gradient(135deg, #f7f0f0 60%, #f3e7ff 100%);
   box-shadow: 0 4px 16px 0 rgba(255, 182, 213, 0.18);
   transform: scale(1.04);
 }
@@ -207,15 +207,10 @@
 .reveal-heading {
   font-size: 1.45rem;
   font-weight: 700;
-  color: #080808;
+  color: #f7f0f0;
   margin-bottom: 0.7rem;
   margin-top: 0.7rem;
   letter-spacing: 0.01em;
-}
-.reveal-subtext {
-  font-size: 1.1rem;
-  color: #080808;
-  margin-bottom: 1.5rem;
 }
 .gift-card-container {
   display: flex;
@@ -224,7 +219,7 @@
   margin-bottom: 1.2rem;
 }
 .gift-card-btn {
-  background: linear-gradient(135deg, #da8ee7 0%, #e7c6ff 100%);
+  background: linear-gradient(135deg, #f7f0f0 60%, #f3e7ff 100%);
   color: #080808;
   font-size: 1.15rem;
   font-weight: 700;
